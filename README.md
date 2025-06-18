@@ -2,6 +2,7 @@
 A simple and interactive To-Do List application built using React.js. This app allows users to add, complete, and delete tasks with a user-friendly interface.
 
 🚀 Features
+
 ✅ Add new tasks
 
 🧠 Mark tasks as completed
@@ -17,6 +18,7 @@ A simple and interactive To-Do List application built using React.js. This app a
 
 
 🔧 Tech Stack
+
 Frontend: React.js (Functional Components + Hooks)
 
 Styling: CSS (Flexbox, transitions, hover effects)
